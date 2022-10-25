@@ -10,3 +10,5 @@
 ## Author: Nadia.Barbo@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
 
+# Import modules
+import sys, os, arcpy
